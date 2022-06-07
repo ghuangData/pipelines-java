@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BunningsDevOps/EDP/_apis/build/status/ghuangData.pipelines-java?branchName=main)](https://dev.azure.com/BunningsDevOps/EDP/_build/latest?definitionId=360&branchName=main)
 
 # Contributing
 
